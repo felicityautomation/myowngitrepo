@@ -11,7 +11,7 @@ public class TestFiles {
 	@Test
 	public void t1() {
 		
-		System.out.println("t1()");
+		System.out.println("t1() 1234");
 	}
 	
 	@Test
