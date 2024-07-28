@@ -11,6 +11,7 @@ Feature: Login feature of DemoBlaze Application
     And user enters user name 'bharathedu1' and password as '123456'
     And click on Login button
     Then the home page is displayed
+    Then take a screenshot
 
   Scenario: Test valid invalid functionality
     And user enters user name 'bharathedu1' and password as '123456343'
